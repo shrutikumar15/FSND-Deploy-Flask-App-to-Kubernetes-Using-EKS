@@ -1,0 +1,4 @@
+email=test@test.com
+password=password
+JWT_SECRET='myjwtsecret'
+LOG_LEVEL=DEBUG
